@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HARSH SHARMA (@HarshSh1224)
 - 👀 I’m interested in Competetive Coding and Android Dev
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently working on a Flutter Project 
 - 📫 you can reach me via: harshsharmadtu@gmail.com
 
 <!---
