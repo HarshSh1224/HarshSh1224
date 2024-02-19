@@ -61,7 +61,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/HarshSh1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="HarshSh1224" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/harsh1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="HarshSh1224" height="30" width="30" /></a>
     <a href="https://instagram.com/harsh.shrmaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="harsh.shrmaaa" height="30" width="30" /></a>
     <a href="https://telegram.dog/einstein_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="einstein_sharma" height="30" width="30" /></a>
 </p>
