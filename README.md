@@ -8,7 +8,6 @@
 - Currently working on a Flutter Project 
 - Reach me via: harshsharmadtu@gmail.com
 
-<br>
 
 ## Programming and markup languages
 
