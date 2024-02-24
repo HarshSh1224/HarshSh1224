@@ -1,14 +1,14 @@
-<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width=100></h2>
+<p><img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width=100></p>
 
-<h2 align="center">Hi!, It's Harsh Sharma</h2>
-
-<h4 align="center"></h4>
+# Hi!, It's Harsh Sharma</h2>
+<br>
 
 - Moderately skilled Flutter developer
 - Interested in Competetive Programming and Mobile Development
 - Currently working on a Flutter Project 
 - Reach me via: harshsharmadtu@gmail.com
 
+<br>
 
 ## Programming and markup languages
 
