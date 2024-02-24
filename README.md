@@ -10,7 +10,7 @@
 - Reach me via: harshsharmadtu@gmail.com
 
 
-### 👨‍💻 Programming and markup languages
+## Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"></a>
@@ -23,7 +23,7 @@
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+## Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white" height="24"></a>
@@ -31,13 +31,13 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+## Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24"></a>
 </p>
 
-### 💻 Software and tools
+## Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white" height="24"></a>
