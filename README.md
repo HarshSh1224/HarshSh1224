@@ -34,7 +34,7 @@
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-orange?logo=firebase" height="24"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-red?logo=firebase" height="24"></a>
 </p>
 
 ## Software and tools
