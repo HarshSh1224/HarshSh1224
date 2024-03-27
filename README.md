@@ -1,6 +1,6 @@
 <p><img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width=100></p>
 
-# Hi!, It's Harsh Sharma</h2>
+# Hi!, It's Harsh Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
 <br>
 
 - Moderately skilled Flutter developer
@@ -12,6 +12,7 @@
 ## Programming and markup languages
 
 <p>
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24">
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white" height="24"></a>
@@ -20,6 +21,7 @@
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24">
 </p>
 
 ## Frameworks and libraries
