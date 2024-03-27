@@ -15,7 +15,7 @@
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6219ff.svg?logo=Kotlin&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
