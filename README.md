@@ -3,7 +3,7 @@
 # Hi!, It's Harsh Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
 <br>
 
-- Moderately skilled Flutter developer
+- A skilled Flutter developer
 - Interested in Competetive Programming and Mobile Development
 - Currently working on a Flutter Project 
 - Reach me via: harshsharmadtu@gmail.com
