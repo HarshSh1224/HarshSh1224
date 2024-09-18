@@ -5,7 +5,7 @@
 
 - Skilled Flutter developer
 - Interested in Competetive Programming and Mobile Development
-- Currently working on a Flutter Project 
+- Currently working on a Flutter App
 - Reach me via: harshsharmadtu@gmail.com
 
 
