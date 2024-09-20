@@ -18,7 +18,6 @@
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6219ff.svg?logo=Kotlin&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
-    <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24">
@@ -28,6 +27,7 @@
 
 <p>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
 </p>
