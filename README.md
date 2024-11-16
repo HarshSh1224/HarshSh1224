@@ -4,8 +4,8 @@
 <br>
 
 - Skilled Flutter developer
-- Interested in Competetive Programming and Mobile Development
-- Currently working on a Flutter App
+- Interested in Competetive programming and Full stack mobile development
+- Currently working on a flutter project
 - Reach me via: harshsharmadtu@gmail.com
 
 
