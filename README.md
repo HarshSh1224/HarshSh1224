@@ -31,6 +31,7 @@
     <a href="https://github.com/search?q=user%3AHarshSh1224+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Material Design" src="https://custom-icon-badges.herokuapp.com/badge/Pandas-47759B.svg?logo=pandas&logoColor=white" height="24"></a>
 </p>
 
 ## Design Patterns
