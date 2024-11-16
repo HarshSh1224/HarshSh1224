@@ -34,7 +34,6 @@
     <a href="#"><img alt="Docker" src="https://custom-icon-badges.herokuapp.com/badge/Docker-0872BA.svg?logo=docker&logoColor=white" height="24"></a>
     <a href="#"><img alt="Jenkins" src="https://custom-icon-badges.herokuapp.com/badge/Jenkins-D43E39.svg?logo=jenkins&logoColor=white" height="24"></a>
     <a href="#"><img alt="Pandas" src="https://custom-icon-badges.herokuapp.com/badge/Pandas-47759B.svg?logo=pandas&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Lxml" src="https://custom-icon-badges.herokuapp.com/badge/LXML-E99F7F.svg?logo=xml"></a>
     <a href="#"><img alt="ChatGPT" src="https://custom-icon-badges.herokuapp.com/badge/ChatGPT-1DA486.svg?logo=chatgpt&logoColor=white" height="24"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
 </p>
