@@ -33,8 +33,8 @@
     <a href="#"><img alt="Kubernetes" src="https://custom-icon-badges.herokuapp.com/badge/Kubernetes-ffffff.svg?logo=kubernetes&logoColor=3871E6" height="24"></a>
     <a href="#"><img alt="Docker" src="https://custom-icon-badges.herokuapp.com/badge/Docker-0872BA.svg?logo=docker&logoColor=white" height="24"></a>
     <a href="#"><img alt="Jenkins" src="https://custom-icon-badges.herokuapp.com/badge/Jenkins-D43E39.svg?logo=jenkins&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-34A853.svg?logo=selenium&logoColor=white" height="24"></a>
     <a href="#"><img alt="Pandas" src="https://custom-icon-badges.herokuapp.com/badge/Pandas-47759B.svg?logo=pandas&logoColor=white" height="24"></a>
-    <a href="#"><img alt="ChatGPT" src="https://custom-icon-badges.herokuapp.com/badge/ChatGPT-1DA486.svg?logo=chatgpt&logoColor=white" height="24"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
 </p>
 
@@ -60,10 +60,10 @@
     <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-591105?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAMAAADvo9thAAAAAXNSR0IArs4c6QAAAEtQTFRFMwAAKwAALQAAHwAAMgAAMgAAMgAAR3BMKwAAMgAAMgAAMwAA/5oAKAAA/6QA/58AplcARAwAci8A6IkAWx4A9pUA1nsAjUQAwWwAGV1bpwAAAAt0Uk5T7R0+M8+XrADw5P4Yaiz0AAABfklEQVR42tWW62rEIBBGzXXJOhdvMXn/J61uhzZbiK7+64EQNB74mKCOemTGZd5UlW1exkdGpWdY9cesw7c0bbqBbcrS0OTo5zYkadWNrA81PXUro1p0M4ua26VZbe3SplS7pD6RMFGVUOPb0BkTsCLZFxeHiPaAZcnvid9VGAmATFFCC8zAl1WRq5J2BAn2WsCDmLgcD0+CDDvUwhFPVy6E3YF95EsgLJZcwgCZg5JpZSo45w5blM4kucAAJJHQUMLhvYQpHexWewY6fyQALko5WMwLs1uVhFyCA9Ex5PdHEgZIBNTWM/BZla7p5G/tFuuSpDM6IfnqkqTzLwCAYz2efAdmTg9kAlYkSXeFTF3CkB0SWPKVJfmlRvDZCliUJB1HFIxs2LKEQcosI9mKRUlqF67bPC8uS9YTU9TXbc50Ss4bCYNPHPg+jhbNnrgthBx3fyeszF+l+6NVxth1lv83qesm7Lpz+273qV0aezqW9t5Ib0NPF9bb7/V0ll/AHnLucpGdgQAAAABJRU5ErkJggg==" height="24"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="24"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white" height="24"></a>
+    <a href="#"><img alt="ChatGPT" src="https://custom-icon-badges.herokuapp.com/badge/ChatGPT-1DA486.svg?logo=chatgpt&logoColor=white" height="24"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F37626.svg?logo=ubuntu&logoColor=white" height="24"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-34A853.svg?logo=selenium&logoColor=white" height="24"></a>
     <a href="#"><img alt="Notepadplusplus" src="https://img.shields.io/badge/-Notepad++-grey?logo=notepadplusplus&logoColor=white" height="24"></a>
     <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-3B0D24.svg?logo=slack&logoColor=white" height="24"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white" height="24"></a>
